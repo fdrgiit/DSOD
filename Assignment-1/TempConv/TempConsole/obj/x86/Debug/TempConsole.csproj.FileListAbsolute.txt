@@ -1,0 +1,12 @@
+C:\Users\Abhinav\Documents\Visual Studio 2010\Projects\TempConv\TempConsole\bin\Debug\TempConsole.exe.config
+C:\Users\Abhinav\Documents\Visual Studio 2010\Projects\TempConv\TempConsole\bin\Debug\TempConsole.exe
+C:\Users\Abhinav\Documents\Visual Studio 2010\Projects\TempConv\TempConsole\bin\Debug\TempConsole.pdb
+C:\Users\Abhinav\Documents\Visual Studio 2010\Projects\TempConv\TempConsole\obj\x86\Debug\TempConsole.exe
+C:\Users\Abhinav\Documents\Visual Studio 2010\Projects\TempConv\TempConsole\obj\x86\Debug\TempConsole.pdb
+C:\Users\Abhinav\Documents\Visual Studio 2010\Projects\TempConv\TempConsole\obj\x86\Debug\TempConsole.csprojResolveAssemblyReference.cache
+D:\documents\CourseWork\DSOD CSE 598\Assignments\Assignment 1\TempConv\TempConsole\bin\Debug\TempConsole.exe.config
+D:\documents\CourseWork\DSOD CSE 598\Assignments\Assignment 1\TempConv\TempConsole\obj\x86\Debug\TempConsole.exe
+D:\documents\CourseWork\DSOD CSE 598\Assignments\Assignment 1\TempConv\TempConsole\obj\x86\Debug\TempConsole.pdb
+D:\documents\CourseWork\DSOD CSE 598\Assignments\Assignment 1\TempConv\TempConsole\bin\Debug\TempConsole.exe
+D:\documents\CourseWork\DSOD CSE 598\Assignments\Assignment 1\TempConv\TempConsole\bin\Debug\TempConsole.pdb
+D:\documents\CourseWork\DSOD CSE 598\Assignments\Assignment 1\TempConv\TempConsole\obj\x86\Debug\TempConsole.csprojResolveAssemblyReference.cache
