@@ -1,0 +1,4 @@
+#Implementing SOAP and REST services
+
+The aim of this assignment is to make sure that you understand and are familiar with the concepts covered in the lectures, including service development, service registration, service deployment, service hosting, service proxy, service binding, service invocation, and application building using your own services and public services. By the end of the assignment, you should have applied these concepts in programming your services, deploying your services, and have used your own services and public services to compose your SOC applications.
+The purpose of this project is to exercise service development, service deployment, service discovery, remote binding, and application composition using your own services and external public services. Some of the services to be developed can be synthetic, e.g., banking service, while others can be realistic, e.g., en/decoding, en/decryption, and product catalog. 
