@@ -1,0 +1,9 @@
+C:\Users\User Name\Desktop\Dsod assignment 4 part 2\XMLServices\WcfService1\bin\WcfService1.dll
+C:\Users\User Name\Desktop\Dsod assignment 4 part 2\XMLServices\WcfService1\bin\WcfService1.pdb
+C:\Users\User Name\Desktop\Dsod assignment 4 part 2\XMLServices\WcfService1\obj\Debug\WcfService1.dll
+C:\Users\User Name\Desktop\Dsod assignment 4 part 2\XMLServices\WcfService1\obj\Debug\WcfService1.pdb
+D:\documents\CourseWork\DSOD CSE 598\Assignments\Assignment 4\Abhinav_SecondPart\XMLServices\WcfService1\bin\WcfService1.dll
+D:\documents\CourseWork\DSOD CSE 598\Assignments\Assignment 4\Abhinav_SecondPart\XMLServices\WcfService1\bin\WcfService1.pdb
+D:\documents\CourseWork\DSOD CSE 598\Assignments\Assignment 4\Abhinav_SecondPart\XMLServices\WcfService1\obj\Debug\WcfService1.dll
+D:\documents\CourseWork\DSOD CSE 598\Assignments\Assignment 4\Abhinav_SecondPart\XMLServices\WcfService1\obj\Debug\WcfService1.pdb
+D:\documents\CourseWork\DSOD CSE 598\Assignments\Assignment 4\Abhinav_SecondPart\XMLServices\WcfService1\obj\Debug\WcfService1.csprojResolveAssemblyReference.cache

@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="Persons.xsl"?>
+<Persons>
+<Person>
+	<Name>
+		<First>Abhinav</First>
+		<Last>Singh</Last>
+	</Name>
+	<Credential>
+		<Password Encryption="" >12345</Password>
+	</Credential>
+	<Phone>
+		<Work>4802789722</Work>
+		<Cell Provider="T-Mobile" >4802346789</Cell>
+	</Phone>
+	<Category>Family</Category>
+</Person>
+
+<Person>
+	<Name>
+		<First>Anjila</First>
+		<Last>Singh</Last>
+	</Name>
+	<Credential>
+		<Id>ajsingh</Id>
+		<Password Encryption="Yes" >23456</Password>
+	</Credential>
+	<Phone>
+		<Work>4802789712</Work>
+		<Cell Provider="T-Mobile" >4802345678</Cell>
+	</Phone>
+	<Category>Family</Category>
+</Person>
+
+<Person>
+	<Name>
+		<First>Ramdeo</First>
+		<Last>Singh</Last>
+	</Name>
+	<Credential>
+		<Id>rds1563</Id>
+		<Password Encryption="Yes" >34567</Password>
+	</Credential>
+	<Phone>
+		<Work>4802784589</Work>
+		<Cell Provider="T-Mobile" >4802344509</Cell>
+	</Phone>
+	<Category>Family</Category>
+</Person>
+
+<Person>
+	<Name>
+		<First>Anisha</First>
+		<Last>Singh</Last>
+	</Name>
+	<Credential>
+		<Id>aneshasingh12</Id>
+		<Password Encryption="Yes" >45678</Password>
+	</Credential>
+	<Phone>
+		<Work>4802784589</Work>
+		<Cell Provider="T-Mobile" >4802347590</Cell>
+	</Phone>
+	<Category>Family</Category>
+</Person>
+
+<Person>
+	<Name>
+		<First>Pankaj</First>
+		<Last>Singh</Last>
+	</Name>
+	<Credential>
+		<Id>psinghcap</Id>
+		<Password Encryption="Yes" >56789</Password>
+	</Credential>
+	<Phone>
+		<Work>4802782786</Work>
+		<Cell Provider="T-Mobile" >4802346578</Cell>
+	</Phone>
+	<Category>Family</Category>
+</Person>
+
+<Person>
+	<Name>
+		<First>Jaydeep</First>
+		<Last>Vaze</Last>
+	</Name>
+	<Credential>
+		<Id>jvaze34</Id>
+		<Password Encryption="Yes" >12897</Password>
+	</Credential>
+	<Phone>
+		<Work>4802789586</Work>
+		<Cell Provider="T-Mobile" >4802348796</Cell>
+	</Phone>
+	<Category>Friend</Category>
+</Person>
+
+<Person>
+	<Name>
+		<First>Soham</First>
+		<Last>Sabale</Last>
+	</Name>
+	<Credential>
+		<Id>ssabale23</Id>
+		<Password Encryption="Yes" >56742</Password>
+	</Credential>
+	<Phone>
+		<Work>4802782353</Work>
+		<Cell>4802347845</Cell>
+	</Phone>
+	<Category>Friend</Category>
+</Person>
+
+<Person>
+	<Name>
+		<First>Rohan</First>
+		<Last>Jawali</Last>
+	</Name>
+	<Credential>
+		<Id>rjawali34</Id>
+		<Password Encryption="Yes" >67345</Password>
+	</Credential>
+	<Phone>
+		<Work>4802782980</Work>
+		<Cell Provider="T-Mobile" >4802348956</Cell>
+	</Phone>
+	<Category>Friend</Category>
+</Person>
+
+<Person>
+	<Name>
+		<First>Ishan</First>
+		<Last>Vasan</Last>
+	</Name>
+	<Credential>
+		<Id>isvasan23</Id>
+		<Password Encryption="Yes" >87562</Password>
+	</Credential>
+	<Phone>
+		<Work>4802788769</Work>
+		<Cell>4802346547</Cell>
+	</Phone>
+	<Category>Friend</Category>
+</Person>
+
+<Person>
+	<Name>
+		<First>Krishna</First>
+		<Last>Anand</Last>
+	</Name>
+	<Credential>
+		<Id>kmanand23</Id>
+		<Password Encryption="Yes" >76834</Password>
+	</Credential>
+	<Phone>
+		<Work>4802787864</Work>
+		<Cell Provider="T-Mobile" >4802348454</Cell>
+	</Phone>
+	<Category>Friend</Category>
+</Person>
+
+<Person>
+	<Name>
+		<First>Sarthak</First>
+		<Last>Joshi</Last>
+	</Name>
+	<Credential>
+		<Id>skjoshi</Id>
+		<Password Encryption="Yes" >86633</Password>
+	</Credential>
+	<Phone>
+		<Work>8032347890</Work>
+		<Cell Provider="Verizon" >4892896785</Cell>
+	</Phone>
+	<Category>Work</Category>
+</Person>
+
+<Person>
+	<Name>
+		<First>Praduyumn</First>
+		<Last>Murlidharan</Last>
+	</Name>
+	<Credential>
+		<Id>pradm007</Id>
+		<Password Encryption="Yes" >78659</Password>
+	</Credential>
+	<Phone>
+		<Work>8032378950</Work>
+		<Cell Provider="ATT" >6789562309</Cell>
+	</Phone>
+	<Category>Work</Category>
+</Person>
+
+<Person>
+	<Name>
+		<First>Raghuraj</First>
+		<Last>Hathwar</Last>
+	</Name>
+	<Credential>
+		<Id>rjhathwar</Id>
+		<Password Encryption="Yes" >89673</Password>
+	</Credential>
+	<Phone>
+		<Work>8032341278</Work>
+		<Cell Provider="Verizon" >3096781209</Cell>
+	</Phone>
+	<Category>Work</Category>
+</Person>
+
+<Person>
+	<Name>
+		<First>Vishnu</First>
+		<Last>Jayan</Last>
+	</Name>
+	<Credential>
+		<Id>vijayan4</Id>
+		<Password Encryption="Yes" >89546</Password>
+	</Credential>
+	<Phone>
+		<Work>803234789</Work>
+		<Cell Provider="T-Mobile" >4802389875</Cell>
+	</Phone>
+	<Category>Work</Category>
+</Person>
+
+<Person>
+	<Name>
+		<First>Sourav</First>
+		<Last>Sen</Last>
+	</Name>
+	<Credential>
+		<Id>sjsenrt</Id>
+		<Password Encryption="Yes" >54739</Password>
+	</Credential>
+	<Phone>
+		<Work>8032345620</Work>
+		<Cell>3096788329</Cell>
+	</Phone>
+	<Category>Work</Category>
+</Person>
+</Persons>
