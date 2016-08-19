@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\Users\User Name\Documents\Dsod\assignment 5\Publish website" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="bin/publish.pdb" publishTime="04/27/2014 20:20:50" />
+    <file relUrl="Web.config" publishTime="04/27/2014 20:35:52" />
+    <file relUrl="Global.asax" publishTime="04/27/2014 18:12:34" />
+    <file relUrl="bin/publish.dll" publishTime="04/27/2014 20:20:50" />
+    <file relUrl="Site.Master" publishTime="04/27/2014 17:36:34" />
+    <file relUrl="Styles/Site.css" publishTime="04/27/2014 17:36:34" />
+    <file relUrl="bin/Dll.dll" publishTime="04/25/2014 17:30:42" />
+    <file relUrl="About.aspx" publishTime="04/27/2014 20:03:27" />
+    <file relUrl="Scripts/jquery-1.4.1.js" publishTime="04/27/2014 17:36:34" />
+    <file relUrl="bin/Dll2.dll" publishTime="04/27/2014 14:26:55" />
+    <file relUrl="bin/Dll.pdb" publishTime="04/25/2014 17:30:42" />
+    <file relUrl="Edll.aspx" publishTime="04/27/2014 17:55:21" />
+    <file relUrl="Account/Web.config" publishTime="04/27/2014 17:36:34" />
+    <file relUrl="Account/Register.aspx" publishTime="04/27/2014 17:36:34" />
+    <file relUrl="bin/Dll2.pdb" publishTime="04/27/2014 14:26:55" />
+    <file relUrl="Account/Login.aspx" publishTime="04/27/2014 17:36:34" />
+    <file relUrl="IPAddress.ascx" publishTime="04/27/2014 17:59:07" />
+    <file relUrl="register.aspx" publishTime="04/27/2014 18:46:38" />
+    <file relUrl="Scripts/jquery-1.4.1.min.js" publishTime="04/27/2014 17:36:34" />
+    <file relUrl="Default.aspx" publishTime="04/27/2014 17:47:34" />
+    <file relUrl="Account/ChangePasswordSuccess.aspx" publishTime="04/27/2014 17:36:34" />
+    <file relUrl="login.ascx" publishTime="04/27/2014 18:00:56" />
+    <file relUrl="home.aspx" publishTime="04/27/2014 18:16:19" />
+    <file relUrl="DllService.aspx" publishTime="04/27/2014 17:53:29" />
+    <file relUrl="Account/ChangePassword.aspx" publishTime="04/27/2014 17:36:34" />
+    <file relUrl="Register.ascx" publishTime="04/27/2014 20:04:11" />
+    <file relUrl="login.aspx" publishTime="04/27/2014 18:18:58" />
+    <file relUrl="Date.ascx" publishTime="04/27/2014 17:57:22" />
+    <file relUrl="bin/MSCaptcha.dll" publishTime="08/21/2011 18:32:51" />
+    <file relUrl="Abhinav.aspx" publishTime="04/27/2014 18:06:56" />
+    <file relUrl="bin/MSCaptcha.xml" publishTime="08/21/2011 18:32:51" />
+    <file relUrl="Scripts/jquery-1.4.1-vsdoc.js" publishTime="04/27/2014 17:36:34" />
+  </publishProfile>
+</publishData>
