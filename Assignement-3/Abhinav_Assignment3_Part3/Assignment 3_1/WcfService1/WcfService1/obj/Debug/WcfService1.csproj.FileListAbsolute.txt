@@ -1,0 +1,5 @@
+D:\documents\CourseWork\DSOD CSE 598\Assignments\Assignment 3\Assignment 3_1\WcfService1\WcfService1\bin\WcfService1.dll
+D:\documents\CourseWork\DSOD CSE 598\Assignments\Assignment 3\Assignment 3_1\WcfService1\WcfService1\bin\WcfService1.pdb
+D:\documents\CourseWork\DSOD CSE 598\Assignments\Assignment 3\Assignment 3_1\WcfService1\WcfService1\obj\Debug\WcfService1.dll
+D:\documents\CourseWork\DSOD CSE 598\Assignments\Assignment 3\Assignment 3_1\WcfService1\WcfService1\obj\Debug\WcfService1.pdb
+D:\documents\CourseWork\DSOD CSE 598\Assignments\Assignment 3\Assignment 3_1\WcfService1\WcfService1\obj\Debug\WcfService1.csprojResolveAssemblyReference.cache
