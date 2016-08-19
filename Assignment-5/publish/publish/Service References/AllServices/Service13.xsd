@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://tempuri.org/" elementFormDefault="qualified" targetNamespace="http://tempuri.org/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://localhost:1256/Service1.svc?xsd=xsd2" namespace="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+  <xs:element name="Top10ContentWords">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="url" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Top10ContentWordsResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" minOccurs="0" name="Top10ContentWordsResult" nillable="true" type="q1:ArrayOfstring" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Top10Words">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="url" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Top10WordsResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q2="http://schemas.microsoft.com/2003/10/Serialization/Arrays" minOccurs="0" name="Top10WordsResult" nillable="true" type="q2:ArrayOfstring" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="WordFilter">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="word" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="WordFilterResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="WordFilterResult" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Sort">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="c" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="SortResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="SortResult" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="palindrome">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="s" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="palindromeResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="palindromeResult" type="xs:int" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Stemming">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="input" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="StemmingResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="StemmingResult" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="deleteChar">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="s1" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="s2" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="deleteCharResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="deleteCharResult" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Permutation">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="input" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="PermutationResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q3="http://schemas.microsoft.com/2003/10/Serialization/Arrays" minOccurs="0" name="PermutationResult" nillable="true" type="q3:ArrayOfstring" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
